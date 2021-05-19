@@ -107,6 +107,15 @@
     </item>
     
     <item>
+      <title>Yarn</title>
+      <link>https://example.com/tags/yarn/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/yarn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>index</title>
       <link>https://example.com/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
