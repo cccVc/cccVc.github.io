@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website of Jane Doe</title>
+    <title>Camille Chan</title>
     <link>https://example.com/</link>
-    <description>Recent content on Website of Jane Doe</description>
+    <description>Recent content on Camille Chan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hi there, I&amp;rsquo;m Camille! My name is Camille and I&amp;rsquo;m recently graduated with a B.</description>
+    </item>
+    
+    <item>
+      <title>Personal Website</title>
+      <link>https://example.com/post/personal_website/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/personal_website/</guid>
+      <description>Portfolio website of assignments and side projects I&amp;rsquo;ve enjoyed during my time at Tufts University.</description>
+    </item>
+    
+    <item>
+      <title>VAST Challenge 2017 MC2</title>
+      <link>https://example.com/post/vast_challenge/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/vast_challenge/</guid>
+      <description>Shared visualization system that addresses VAST Challenge 2017 Mini Challenge 2 built on D3, Javascript, and HTML.</description>
+    </item>
+    
+    <item>
+      <title>Adryft Conceptual Design</title>
+      <link>https://example.com/post/adryft_design/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/adryft_design/</guid>
+      <description>Design Concept that addresses water-taxi boat interfaces and is built with Figma.</description>
+    </item>
+    
+    <item>
+      <title>Animal Crossing PWA App</title>
+      <link>https://example.com/post/acnh_react/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/acnh_react/</guid>
+      <description>A Progressive Web App (PWA) build on React and Material UI which filters Animal Crossing information.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

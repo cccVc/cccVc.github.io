@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub on Camille Chan</title>
+    <link>https://example.com/categories/github/</link>
+    <description>Recent content in GitHub on Camille Chan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Website</title>
+      <link>https://example.com/post/personal_website/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/personal_website/</guid>
+      <description>Portfolio website of assignments and side projects I&amp;rsquo;ve enjoyed during my time at Tufts University.</description>
+    </item>
+    
+  </channel>
+</rss>

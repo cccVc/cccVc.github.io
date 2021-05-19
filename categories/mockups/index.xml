@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mockups on Camille Chan</title>
+    <link>https://example.com/categories/mockups/</link>
+    <description>Recent content in Mockups on Camille Chan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/mockups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adryft Conceptual Design</title>
+      <link>https://example.com/post/adryft_design/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/adryft_design/</guid>
+      <description>Design Concept that addresses water-taxi boat interfaces and is built with Figma.</description>
+    </item>
+    
+  </channel>
+</rss>

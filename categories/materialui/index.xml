@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MaterialUI on Camille Chan</title>
+    <link>https://example.com/categories/materialui/</link>
+    <description>Recent content in MaterialUI on Camille Chan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/materialui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Crossing PWA App</title>
+      <link>https://example.com/post/acnh_react/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/acnh_react/</guid>
+      <description>A Progressive Web App (PWA) build on React and Material UI which filters Animal Crossing information.</description>
+    </item>
+    
+  </channel>
+</rss>
